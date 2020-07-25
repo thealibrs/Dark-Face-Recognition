@@ -5,7 +5,7 @@
 
 > simple face recognition with using laptop camera
 
-> #facerecognition, #python
+> OpenCV, NumPy, face_recognition
 
 **Input Images**
 
