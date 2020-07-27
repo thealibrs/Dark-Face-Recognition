@@ -4,8 +4,12 @@
 # Simple Face Recognition with Dark TV Series Cast
 
 > simple face recognition with using laptop camera
+[For The Article](https://medium.com/@alibarisayten/face-recognition-with-tv-series-dark-dfcdae9f0701)
 
-> OpenCV, NumPy, face_recognition
+**Libraries**
+- OpenCV 
+- NumPy 
+- face_recognition
 
 **Input Images**
 
@@ -16,4 +20,5 @@
 **Output**
 
 ![Actors](https://i.hizliresim.com/gcAUUM.png)
+
 
