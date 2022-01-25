@@ -11,7 +11,7 @@
 - NumPy 
 - face_recognition
 
-**Input Images**
+Input Images
 
 ![Actors](https://i.hizliresim.com/bwdLOS.png)
 
